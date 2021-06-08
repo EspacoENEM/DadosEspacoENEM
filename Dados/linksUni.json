@@ -1,0 +1,57 @@
+{
+    "RJ":{
+        "UFRJ":{
+            "2021":{
+                "1":{
+                    "CR": "https://acessograduacao.ufrj.br/2021-1/2021-1-sisu-mec/chamada-regular-do-sisu-mec-2021-1/2021_1-SiSU-Chamada_Regular.pdf",
+                    "LE":"https://acessograduacao.ufrj.br/2021-1/2021-1-sisu-mec/primeira-chamada-da-lista-de-espera-do-sisu-mec-edicao-2021-1/2021_1-SiSU-1a_Lista_de_Espera.pdf",
+                    "COLS":[]
+                },
+                "2":{
+                    "CR": "",
+                    "LE": "",
+                    "COLS":[]
+                }
+            },
+            "2020":{
+                "1":{
+                    "CR": "https://acessograduacao.ufrj.br/2020-1/2020-1-sisu-mec/chamada-regular-do-sisu-mec-2020-1/2020_1-SiSU-Chamada_Regular.pdf",
+                    "LE":"https://acessograduacao.ufrj.br/2020-1/2020-1-sisu-mec/primeira-chamada-da-lista-de-espera-do-sisu-mec-edicao-2020-1/2020_1-SiSU-1a_Lista_de_Espera.pdf",
+                    "COLS":[]
+                },
+                "2":{
+                    "CR": "https://acessograduacao.ufrj.br/2020-2/2020-2-sisu-mec/chamada-regular-do-sisu-mec-2020-2/2020_2-SiSU-Chamada_Regular.pdf",
+                    "LE": "https://acessograduacao.ufrj.br/2020-2/2020-2-sisu-mec/primeira-chamada-da-lista-de-espera-do-sisu-mec-edicao-2020-2/2020_2-SiSU-1a_Lista_de_Espera.pdf",
+                    "COLS":[]
+                }
+            }
+        },
+
+        "UFF":{
+            "2021":{
+                "1":{
+                    "CR": "",
+                    "LE":"",
+                    "COLS":[]
+                },
+                "2":{
+                    "CR": "",
+                    "LE": "",
+                    "COLS":[]
+                }
+            },
+            "2020":{
+                "1":{
+                    "CR": "",
+                    "LE":"http://www.coseac.uff.br/20201/arquivos/UFF-SISU2020-1Edicao-Chamada2.pdf",
+                    "COLS":[]
+                },
+                "2":{
+                    "CR": "http://www.coseac.uff.br/20202/arquivos/UFF-SISU2020-2Edicao-Chamada1.pdf",
+                    "LE": "http://www.coseac.uff.br/20202/arquivos/UFF-SISU2020-2Edicao-Chamada2.pdf",
+                    "COLS":[]
+                }
+            }
+        }
+    }
+}

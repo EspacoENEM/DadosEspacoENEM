@@ -1,1 +1,148 @@
+{
+    "ENEM":{
+        "2020": {
+            "link": "",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2019": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem_2019.zip",
+            "microdados": "DADOS/MICRODADOS_ENEM_2019.csv",
+            "dicionario": "DICION╡RIO/Dicionário_Microdados_Enem_2019.xlsx"
+        },
+        "2018": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2018.zip",
+            "microdados": "DADOS/MICRODADOS_ENEM_2018.csv",
+            "dicionario": "DICION╡RIO/Dicionário_Microdados_Enem_2018.xlsx"
+        },
+        "2017": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2017.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2016": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2016.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2015": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2015.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2014": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2014.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2013": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2013.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2012": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2012.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2011": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2011.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2010": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2010_2.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2009": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem2009.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2008": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem_2008.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2007": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem_2007_DVD.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2006": {
+            "link": "https://download.inep.gov.br/microdados/microdados_ENEM_2006.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2005": {
+            "link": "https://download.inep.gov.br/microdados/microdados_enem_2005.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2004": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem2004.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2003": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem2003.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2002": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem2002.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2001": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem2001.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "2000": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem2000.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "1999": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem1999.zip",
+            "microdados": "",
+            "dicionario": ""
+        },
+        "1998": {
+            "link": "https://download.inep.gov.br/microdados/micro_enem1998.zip",
+            "microdados": "",
+            "dicionario": ""
+        }
+    },
 
+    "SISU":{
+        "2021":{
+            "1":{
+                "Inscricoes":"https://sisu.mec.gov.br/static/relatorio/inscricao_e_nota_de_corte_sisu_2021.xlsx",
+                "ArquivoInscricoes":"xlsx",
+                "Vagas":"https://sisu.mec.gov.br/static/relatorio/vagas_ofertadas_sisu_2021-1.zip",
+                "ArquivoVagas":"Vagas_ofertadas_2021-1_Sisu.xlsx"
+            },
+            "2":{
+                "Inscricoes":"",
+                "Vagas":""
+            }
+        },
+        "2020":{
+            "1":{
+                "Inscricoes":"https://sisu.mec.gov.br/static/relatorio/inscricoes-e-nota-de-corte-sisu_2020-1.zip",
+                "ArquivoInscricoes":"Inscrições e nota de corte_Sisu 2020-1.xlsx",
+                "Vagas":"https://sisu.mec.gov.br/static/relatorio/vagas-ofertadas-1-2020.zip",
+                "ArquivoVagas":"vagas-ofertadas-1-2020.xlsx"
+            },
+            "2":{
+                "Inscricoes":"https://sisu.mec.gov.br/static/relatorio/inscricao_e_nota_de_corte_sisu_2020-2.zip",
+                "ArquivoInscricoes": "inscricao_e_nota_de_corte_sisu_2020-2.xlsx",
+                "Vagas":"https://sisu.mec.gov.br/static/relatorio/vagas-ofertadas-sisu_2020_2.zip",
+                "ArquivoVagas":"vagas-ofertadas-Sisu 2020_2.xlsx"
+            }
+        }
+    }
+}
