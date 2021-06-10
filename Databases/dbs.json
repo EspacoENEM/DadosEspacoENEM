@@ -8,8 +8,8 @@
   "2019": {
 	"link": "https://786cf02d-091e-49e3-9f8b-abce6a87f0fe.usrfiles.com/archives/786cf0_ff384a6c46684bf4a9091264548d13bb.zip",
 	"tamanho": "1,65 GB",
-	"enem": false,
-	"sisu": false
+	"enem": true,
+	"sisu": true
   },
   "2018": {
 	"link": "",
