@@ -1,6 +1,7 @@
 {
     "MG":{
-        "UFMG": false
+        "UFMG": false,
+        "UFJF": true
     },
     "RJ":{
         "UFRJ": true,
