@@ -3,7 +3,7 @@
         "UFRJ": {
             "2020": {
                 "temNota": true,
-                "link": false
+                "link": "https://github.com/EspacoENEM/DadosEspacoENEM/raw/main/Databases/UFRJ_2020.zip"
             }
         }
     }
