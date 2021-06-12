@@ -1,10 +1,10 @@
 {
-    "MG":{
-        "UFMG": false,
-        "UFJF": true
-    },
-    "RJ":{
-        "UFRJ": true,
-        "UFF": false
+    "RJ": {
+        "UFRJ": {
+            "2020": {
+                "temNota": true,
+                "link": false
+            }
+        }
     }
 }
