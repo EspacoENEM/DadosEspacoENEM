@@ -3,127 +3,148 @@
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2019": {
 	"link": "https://786cf02d-091e-49e3-9f8b-abce6a87f0fe.usrfiles.com/archives/786cf0_ff384a6c46684bf4a9091264548d13bb.zip",
 	"tamanho": "1,65 GB",
 	"enem": true,
-	"sisu": true
+	"sisu1": true,
+	"sisu2": true
   },
   "2018": {
 	"link": "https://786cf02d-091e-49e3-9f8b-abce6a87f0fe.usrfiles.com/archives/786cf0_84352831b2a740119e4327d788c99096.zip",
 	"tamanho": "1,70 GB",
 	"enem": true,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2017": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2016": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2015": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2014": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2013": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2012": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2011": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2010": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2009": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2008": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2007": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2006": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2005": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2004": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2003": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2002": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2001": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "2000": {
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   },
   "1999": {
 	"link": "",
@@ -135,6 +156,7 @@
 	"link": "",
 	"tamanho": "",
 	"enem": false,
-	"sisu": false
+	"sisu1": false,
+	"sisu2": false
   }
 }
