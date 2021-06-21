@@ -1,0 +1,32 @@
+{
+	"ENEM":{
+		"1": {
+			"areas": "Ling, Hum, Redação",
+			"tempoProva": "5 h, 30 min",
+			"data": "07/11/2021",
+			"hora": "13:30-19:00"
+		},
+		
+		"2": {
+			"areas": "Natureza, Matemática",
+			"tempoProva": "5 h, 00 min",
+			"data": "14/11/2021",
+			"hora": "13:30-18:30"
+		}
+	},
+	
+	"SISU":{
+		"1":{
+			"edicao": "2021.1",
+			"dataInicio": "06/04/2021",
+			"dataFim": "14/04/2021",
+			"dataResultado": "16/04/2021"
+		},
+		"2":{
+			"edicao": "2021.2",
+			"dataInicio": "01/10/2021",
+			"dataFim": "04/10/2021",
+			"dataResultado": "16/04/2021"
+		}
+	}
+}
